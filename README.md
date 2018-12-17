@@ -1,8 +1,8 @@
 
-------------------------------------------**SHEEPISH GAME**---------------------------------------------------------
+--------------------------------------------------------**SHEEPISH GAME**-------------------------------------------------------------
 
      
-     **_Components:_**
+   ### Components
 - Arduino UNO
 - 2 x Mini Breadboard
 - 2 x Breadboard
@@ -14,14 +14,14 @@
 - Joystick
 - Button
 
-     **_Gameplay_**
-Try to get your sheep into all of the four pens at the other side of the road to move to the next level. Use the joystick to move the sheep. Avoid all the cars.
+    ### Gameplay
+- Try to get your sheep into all of the four pens at the other side of the road to move to the next level. Use the joystick to move the sheep. Avoid all the cars.
 
-      **_Score_**
-+20 points when you get the sheep into a pen
--5 points for every car collision
-+ the time left at the end of every level
+    ### Score
+- +20 points when you get the sheep into a pen
+- -5 points for every car collision
+- +the time left at the end of every level
 
-     **_Difficulty_**
-Every level the speed of the cars increases and the time decreases with 5 seconds until it gets to 25 seconds.
-You only have 3 lives. You lose a life every time the sheep gets hit by a car.
+    ### Difficulty
+- Every level the speed of the cars increases and the time decreases with 5 seconds until it gets to 25 seconds.
+- You only have 3 lives. You lose a life every time the sheep gets hit by a car.
