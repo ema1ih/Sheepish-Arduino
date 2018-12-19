@@ -14,6 +14,7 @@
 - 10k, 1k Ohm resistors
 - Joystick
 - Button
+- Buzzer
 
     ### Gameplay
 - Try to get your sheep into all of the four pens at the other side of the road to move to the next level. Use the joystick to move the sheep. Avoid all the cars.
