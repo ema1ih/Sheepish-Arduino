@@ -1,7 +1,6 @@
 
 --------------------------------------------------------**SHEEPISH GAME**-------------------------------------------------------------
   
-  ![](20181218_001600.jpg)
   
    ### Components
 - Arduino UNO
@@ -27,3 +26,8 @@
     ### Difficulty
 - Every level the speed of the cars increases and the time decreases with 5 seconds until it gets to 25 seconds.
 - You only have 3 lives. You lose a life every time the sheep gets hit by a car.
+
+Video: https://www.youtube.com/watch?v=PNi46GjJzuk&feature=youtu.be
+
+
+![](20181218_001600.jpg)
